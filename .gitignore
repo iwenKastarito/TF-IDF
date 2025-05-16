@@ -1,0 +1,13 @@
+# Ignore build and VS files
+*.exe
+*.ilk
+*.pdb
+*.ipch
+*.obj
+*.log
+*.tlog
+*.suo
+*.user
+*.VC.db
+.vs/
+x64/
